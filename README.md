@@ -3,7 +3,9 @@
 Instead of title, author and date, this class uses course, homework and name
 
 course : Name of the course
+
 homework : Title for the Homework (example : Homework 1, Programming Assignment 1)
+
 name : Name of the student
 
 These also get reflected in the header
