@@ -21,7 +21,7 @@
 	%\hrule
 	\vspace{0.4cm}
 }{
-	\newline
+	\vskip0.5cm
 	\begin{center}
 		\makebox[0.5\linewidth]{\rule{0.25\linewidth}{0.5pt}}
 	\end{center}
