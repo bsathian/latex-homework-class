@@ -8,8 +8,9 @@
 \RequirePackage{graphicx}
 \RequirePackage{subcaption}
 \geometry{lmargin = 1.25cm, rmargin = 1.25cm,tmargin = 1.25in}
-\usepackage{fancyhdr}
-\usepackage{mathtools}
+\RequirePackage{fancyhdr}
+\RequirePackage{mathtools}
+\RequirePackage{float}
 \DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
 \pagestyle{fancy}
 
