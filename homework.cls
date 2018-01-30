@@ -7,6 +7,7 @@
 \RequirePackage{geometry}
 \RequirePackage{graphicx}
 \RequirePackage{subcaption}
+\RequirePackage{amssymb}
 \geometry{lmargin = 1.25cm, rmargin = 1.25cm,tmargin = 1.25in}
 \RequirePackage{fancyhdr}
 \RequirePackage{mathtools}
